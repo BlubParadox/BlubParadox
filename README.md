@@ -1,5 +1,5 @@
-I'm BlubParadox, I code sometimes. I also edit photos, videos, and dabble a little in music making.
+I'm Paradox, I used to code sometimes. I still edit photos but videos and music making have become hobbies of the past.
 
-unfortunately, i'm shit at all 3 of those things, but you'll see my work pop up from time to time.
+I now spend a lot of my time playing MTG, and working on personal projects, very few of which will ever make it to this page.
 
-I used to spend most of my time on FNF modding when i wasn't at work or playing video games, so look around, snoop through my code, and watch it all go to shit when something updates. 
+This profile will probably only still exist as a reminder of when I used to help in small parts of the FNF Modding Sphere, and to this day i'm still fighting for the right to use a Guitar Hero controller in the game, and not just specific engines.
